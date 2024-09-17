@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Flutter",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Our framework for mobile to ease develop both android or iOS"
+  },
+  {
+    "name": "Kotlin",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Our alternatives language for mobile"
+  },
+  {
+    "name": "FlutterFlow",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Build flutter with visual development"
+  }
+]
