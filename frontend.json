@@ -1,0 +1,23 @@
+[
+  {
+    "name": "NextJS 14.x",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Our main framework for frontend"
+  },
+  {
+    "name": "Mantine",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Our UI framework"
+  },
+  {
+    "name": "ShadCN",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Our UI framework for frontend"
+  }
+]

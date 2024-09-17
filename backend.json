@@ -21,7 +21,7 @@
     "description": "Our main framework for backend"
   },
   {
-    "name": "Typescript 5.x.x",
+    "name": "TypeScript",
     "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
