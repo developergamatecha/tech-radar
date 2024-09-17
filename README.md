@@ -1,8 +1,8 @@
 ## Gamatecha Tech Radar
 
-- Backend:
-- Frontend:
-- Mobile:
+- Backend: https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fdevelopergamatecha%2Ftech-radar%2Fmain%2Fbackend.json
+- Frontend: https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fdevelopergamatecha%2Ftech-radar%2Fmain%frontend.json
+- Mobile: https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fdevelopergamatecha%2Ftech-radar%2Fmain%mobile.json
 
 ## What is Tech Radar?
 
