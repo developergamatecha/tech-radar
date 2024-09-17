@@ -21,11 +21,25 @@
     "description": "Our main framework for backend"
   },
   {
+    "name": "Django 4.2.x",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Our secondary framework for backend"
+  },
+  {
     "name": "TypeScript",
     "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
     "description": "Typescript programming language"
+  },
+  {
+    "name": "Python",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Python programming language"
   },
   {
     "name": "TypeORM",
@@ -35,10 +49,101 @@
     "description": "Our main ORM with NestJS framework"
   },
   {
+    "name": "DjangoORM",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Our secondary ORM with Django framework"
+  },
+  {
+    "name": "Open API Swagger",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Use for API Documentation"
+  },
+  {
     "name": "Backend For Frontend",
     "ring": "adopt",
     "quadrant": "Techniques",
     "isNew": "FALSE",
     "description": "BFF Pattern"
+  },
+  {
+    "name": "Microservices Architecture",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Microservices Architecture Pattern"
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Build our backend application as Docker image"
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "Use for container orchestration tool"
+  },
+  {
+    "name": "Jenkins",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "Use for automation server for CI/CD"
+  },
+  {
+    "name": "Restful API",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Use for main HTTP protocol for backend"
+  },
+  {
+    "name": "GraphQL",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Use for alternative HTTP protocol for backend"
+  },
+  {
+    "name": "Websocket",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Use for Websocket protocol for backend"
+  },
+  {
+    "name": "RabbitMQ",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Message broker for our backend services"
+  },
+  {
+    "name": "Kafka",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Event store and stream-processing for our backend services"
+  },
+  {
+    "name": "Redis",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "In memory for caching for our backend services"
+  },
+  {
+    "name": "Elasticsearch",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Search database for our backend services"
   }
 ]
