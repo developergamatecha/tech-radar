@@ -2,14 +2,14 @@
   {
     "name": "PostgresSQL 14",
     "ring": "adopt",
-    "quadrant": "Platform",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "description": "Relational database for our backend services"
   },
   {
     "name": "MongoDB x.x",
     "ring": "asses",
-    "quadrant": "Platform",
+    "quadrant": "Platforms",
     "isNew": "TRUE",
     "description": "Document database for our backend services"
   },
