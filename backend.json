@@ -42,6 +42,13 @@
     "description": "Python programming language"
   },
   {
+    "name": "Jest 29",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Test runner for unit test or integration test."
+  },
+  {
     "name": "TypeORM",
     "ring": "adopt",
     "quadrant": "Tools",
