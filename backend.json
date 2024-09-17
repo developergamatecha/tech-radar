@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PostgresSQL 14",
+    "ring": "adopt",
+    "quadrant": "Datastore",
+    "isNew": "FALSE",
+    "description": "Relational database for our backend services"
+  },
+  {
+    "name": "MongoDB x.x",
+    "ring": "asses",
+    "quadrant": "Datastore",
+    "isNew": "TRUE",
+    "description": "Document database for our backend services"
+  },
+  {
+    "name": "NestJS 10.x",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Our main framework for backend"
+  },
+  {
+    "name": "Typescript 5.x.x",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Typescript programming language"
+  },
+  {
+    "name": "TypeORM",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Our main ORM with NestJS framework"
+  },
+  {
+    "name": "Backend For Frontend",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "BFF Pattern"
+  }
+]
