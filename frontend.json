@@ -105,9 +105,9 @@
     "description": "Automated testing tool for front-end applications."
   },
   {
-    "name": "Yup Validation",
-    "ring": "trial",
-    "quadrant": "Tools",
+    "name": "Schema Validation with Yup",
+    "ring": "assess",
+    "quadrant": "Techniques",
     "isNew": "FALSE",
     "description": "A lightweight alternative for schema-based data validation."
   },
@@ -121,7 +121,7 @@
   {
     "name": "Auth.js",
     "ring": "trial",
-    "quadrant": "Tools",
+    "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
     "description": "Authentication library for modern applications, supporting multiple auth providers and features."
   },
@@ -218,7 +218,7 @@
   },
   {
     "name": "Netlify",
-    "ring": "adopt",
+    "ring": "assess",
     "quadrant": "Platforms",
     "isNew": "FALSE",
     "description": "Fast hosting for JAMstack-based applications with powerful build and deployment features."
