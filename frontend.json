@@ -1,23 +1,247 @@
 [
   {
-    "name": "NextJS 14.x",
+    "name": "Type-safe Validation with Zod",
     "ring": "adopt",
-    "quadrant": "Languages and Frameworks",
+    "quadrant": "Techniques",
     "isNew": "FALSE",
-    "description": "Our main framework for frontend"
+    "description": "Schema-first validation that is safe and consistent with TypeScript."
+  },
+  {
+    "name": "Generic Types",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "A feature of TypeScript that enables more flexible and reusable code."
+  },
+  {
+    "name": "Declarative Form Management with React Hook Form",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "A lightweight solution for managing complex forms declaratively."
+  },
+  {
+    "name": "State Management with Zustand",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "A minimal and lightweight solution for global state management."
+  },
+  {
+    "name": "Server-Side Rendering (SSR) with Next.js",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Improves SEO and performance."
+  },
+  {
+    "name": "Caching & Revalidating with TanStack React Query",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Efficient data fetching, caching, synchronization, and revalidation for server-state management in React."
+  },
+  {
+    "name": "Utility-First UI Design with TailwindCSS",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Utility-based class approach to UI design."
+  },
+  {
+    "name": "Server Components",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "The latest React feature to improve performance by rendering components on the server."
+  },
+  {
+    "name": "Micro-Frontends Architecture",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Breaking large applications into independent front-end modules."
+  },
+  {
+    "name": "Traditional CSS Frameworks (e.g., Bootstrap)",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Not aligned with modern design trends."
+  },
+  {
+    "name": "Prettier",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Code formatter to enforce consistent code style."
+  },
+  {
+    "name": "ESLint",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Linting tool to enforce coding standards and quality."
+  },
+  {
+    "name": "Husky",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Adds pre-commit hooks to ensure code quality and automate tasks like linting and testing before commits."
+  },
+  {
+    "name": "Storybook",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Interactive documentation for UI components."
+  },
+  {
+    "name": "Playwright",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Automated testing tool for front-end applications."
+  },
+  {
+    "name": "Schema Validation with Yup",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "A lightweight alternative for schema-based data validation."
+  },
+  {
+    "name": "Vitest",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Fast unit testing tool for modern ecosystems."
+  },
+  {
+    "name": "Auth.js",
+    "ring": "trial",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Authentication library for modern applications, supporting multiple auth providers and features."
+  },
+  {
+    "name": "React",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "The primary library for building UIs."
+  },
+  {
+    "name": "Next.js",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A modern React framework, used for SSR (Server-Side Rendering) and static site generation."
+  },
+  {
+    "name": "TypeScript",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A statically typed superset of JavaScript, enhances code safety and tooling."
+  },
+  {
+    "name": "React Hook Form",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A library for managing forms in React in a declarative way."
+  },
+  {
+    "name": "Zustand",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A minimal state management library for React."
+  },
+  {
+    "name": "TanStack React Query",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A library for efficient data fetching, caching, synchronization, and revalidation in React."
+  },
+  {
+    "name": "TanStack React Table",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A fast, extensible, and lightweight table library for building complex data tables in React."
+  },
+  {
+    "name": "TailwindCSS",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A utility-first CSS framework for building custom UIs with ease."
   },
   {
     "name": "Mantine",
-    "ring": "adopt",
-    "quadrant": "Languages and Frameworks",
+    "ring": "trial",
+    "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
-    "description": "Our UI framework"
+    "description": "A modern UI component library based on React and TypeScript."
   },
   {
     "name": "ShadCN",
     "ring": "trial",
-    "quadrant": "Languages and Frameworks",
+    "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
-    "description": "Our UI framework for frontend"
+    "description": "A flexible UI component library using Tailwind CSS for creating scalable design systems."
+  },
+  {
+    "name": "NextUI",
+    "ring": "trial",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A lightweight, modern UI component library for building stylish React applications."
+  },
+  {
+    "name": "Qwik",
+    "ring": "assess",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "A framework designed for ultra-fast web applications."
+  },
+  {
+    "name": "Vercel",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "The best hosting platform for Next.js applications, providing optimized serverless deployments."
+  },
+  {
+    "name": "Netlify",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Fast hosting for JAMstack-based applications with powerful build and deployment features."
+  },
+  {
+    "name": "AWS Amplify",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "A comprehensive hosting and backend solution that integrates with AWS services."
+  },
+  {
+    "name": "Cloudflare Pages",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "A lightweight, fast platform for deploying static sites and front-end applications."
+  },
+  {
+    "name": "Heroku",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Not optimal for modern front-end applications due to limited support for serverless or JAMstack patterns."
   }
 ]
