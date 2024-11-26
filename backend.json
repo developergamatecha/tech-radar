@@ -152,5 +152,12 @@
     "quadrant": "Platforms",
     "isNew": "FALSE",
     "description": "Search database for our backend services"
+  },
+  {
+    "name": "BullMQ",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "Background Tasks and Queuing"
   }
 ]
