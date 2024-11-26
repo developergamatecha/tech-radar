@@ -7,6 +7,20 @@
     "description": "Our framework for mobile to ease develop both android or iOS"
   },
   {
+    "name": "GetX",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Micro framework for Flutter with State Management"
+  },
+  {
+    "name": "BLoC",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "State management library for Flutter with Stream Approach"
+  },
+  {
     "name": "Kotlin",
     "ring": "trial",
     "quadrant": "Languages and Frameworks",
@@ -19,5 +33,68 @@
     "quadrant": "Platforms",
     "isNew": "FALSE",
     "description": "Build flutter with visual development"
+  },
+  {
+    "name": "Clean Architecture",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Architecture design pattern"
+  },
+  {
+    "name": "CodeMagic",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "CI/CD platform for Mobile Apps"
+  },
+  {
+    "name": "One Signal",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Notification platform"
+  },
+  {
+    "name": "Firebase Cloud Messaging",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Notification platform"
+  },
+  {
+    "name": "Flutter Test",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Flutter Built-in Testing library"
+  },
+  {
+    "name": "Mockito",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Testing library"
+  },
+  {
+    "name": "Hive",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "No SQL Local Database library"
+  },
+  {
+    "name": "Flutter Secure Storage",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Key-Value Secure Local Database library"
+  },
+  {
+    "name": "Keycloak",
+    "ring": "trial",
+    "quadrant": "Platform",
+    "isNew": "TRUE",
+    "description": "SSO Authentication platform"
   }
 ]
