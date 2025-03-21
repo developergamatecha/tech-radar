@@ -42,6 +42,13 @@
     "description": "Architecture design pattern"
   },
   {
+    "name": "Jenkins",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "CI/CD platform for Mobile Apps"
+  },
+  {
     "name": "CodeMagic",
     "ring": "trial",
     "quadrant": "Platforms",
@@ -50,7 +57,7 @@
   },
   {
     "name": "One Signal",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "Platforms",
     "isNew": "FALSE",
     "description": "Notification platform"
@@ -71,14 +78,21 @@
   },
   {
     "name": "Mockito",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
     "description": "Testing library"
   },
   {
+    "name": "Floor",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "SQL Local Database library"
+  },
+  {
     "name": "Hive",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "No SQL Local Database library"
@@ -92,9 +106,23 @@
   },
   {
     "name": "Keycloak",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "Platform",
     "isNew": "TRUE",
     "description": "SSO Authentication platform"
+  },
+  {
+    "name": "Shorebird",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Instantly deploy changes code directly to the user device"
+  },
+  {
+    "name": "Sentry",
+    "ring": "trial",
+    "quadrant": "Platform",
+    "isNew": "FALSE",
+    "description": "Performance Monitoring"
   }
 ]
